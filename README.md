@@ -26,9 +26,6 @@ AI         → Google Gemini 2.0 Flash · Anthropic Claude
 | [**Office2MD**](https://convertor-mk.vercel.app) | Convert any document to Markdown, 30+ formats, 100% client-side | Next.js · TypeScript · WASM |
 | [**MermaWeb**](https://github.com/elfic-ticio/ProyectoAppVen...) | E-commerce with auctions, AI chatbot, invoicing and shipment tracking | Next.js · WebSockets · Prisma |
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elfic-ticio&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c8f060&icon_color=c8f060&text_color=f0ede8&count_private=true)
 
 ## Contact
 
