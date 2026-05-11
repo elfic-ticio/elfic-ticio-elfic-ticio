@@ -28,7 +28,7 @@ AI         → Google Gemini 2.0 Flash · Anthropic Claude
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=elfic-ticio&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c8f060&icon_color=c8f060&text_color=888580)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elfic-ticio&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c8f060&icon_color=c8f060&text_color=f0ede8&count_private=true)
 
 ## Contact
 
